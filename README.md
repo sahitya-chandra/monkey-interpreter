@@ -1,4 +1,4 @@
-# Monkey Interpreter
+# Interpreter
 
 A small Go implementation of the Monkey programming language.
 
